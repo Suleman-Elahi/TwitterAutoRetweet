@@ -5,5 +5,6 @@ keys = dict(
 	consumer_key='',
 	consumer_secret='',
 	access_token='',
-	access_token_secret='',
+	access_token__secret='',
 	)
+# vars should have double under scores
