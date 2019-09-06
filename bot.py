@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 import tweepy
-#from our keys module (keys.py), import the keys dictionary
 from keys import keys
  
 CONSUMER_KEY = keys['consumer_key']
